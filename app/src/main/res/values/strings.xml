@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Drinks</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="menu_action_show_list">Show List</string>
+    <string name="menu_action_show_timer">Show Timer</string>
+    <string name="menu_action_add">Add Drink</string>
+    <string name="menu_action_save">Save</string>
+    <string name="toolbar_image">Toolbar image of a glass</string>
+    <string name="make_time_seconds">%1$d seconds</string>
+</resources>
